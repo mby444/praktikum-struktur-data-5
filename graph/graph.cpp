@@ -55,7 +55,7 @@ void outputMainMenu()
          << "3. Lihat Teman Seseorang" << endl
          << "4. Cek Pertemanan Langsung" << endl
          << "5. Temukan Jalur Pertemanan (DFS)" << endl
-         << "0. Keluar" << endl
+         << "0. Simpan dan Keluar" << endl
          << endl;
 }
 

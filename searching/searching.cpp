@@ -643,7 +643,7 @@ int main()
 
             saveBooksToFile();
 
-            cout << "Berhasil menyimpan buku ke dalam file." << endl;
+            cout << "Berhasil menyimpan " << booksCurrentSize << " buku ke dalam file." << endl;
             cout << "Keluar dari program. Sampai jumpa!" << endl;
             break;
         default:

@@ -24,7 +24,7 @@ void outputMainMenu()
          << "[2] Cari Email" << endl
          << "[3] Hapus Mahasiswa" << endl
          << "[4] Lihat Semua" << endl
-         << "[0] Keluar" << endl
+         << "[0] Simpan dan Keluar" << endl
          << endl;
 }
 
@@ -379,6 +379,8 @@ void loadDataFromFile()
 void saveDataToFile()
 {
     ofstream outFile(DATABASE_FILE);
+    string temp;
+
     if (!outFile)
     {
         cout << "Gagal membuka file untuk menyimpan data.\n";
@@ -390,10 +392,13 @@ void saveDataToFile()
         Student *current = hashTable[i];
         while (current != NULL)
         {
-            outFile << current->name << "," << current->email << "\n";
+            string line = current->name + "," + current->email + "\n";
+            temp = line + temp;
             current = current->next;
         }
     }
+
+    outFile << temp;
 
     outFile.close();
     cout << "Data berhasil disimpan ke file.\n";

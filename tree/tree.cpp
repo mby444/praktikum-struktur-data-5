@@ -159,6 +159,7 @@ void addNodeToTree(Node **rootPtr, Node *newNode)
     if (*rootPtr == NULL)
     {
         *rootPtr = newNode;
+        cout << "Berhasil menambahkan kata '" << newNode->word << "'." << endl;
     }
     else if (compareWords(newNode->word, (*rootPtr)->word) < 0)
     {
@@ -234,18 +235,21 @@ Node *removeNode(Node *root, string word)
         if (root->left == NULL && root->right == NULL)
         {
             delete root;
+            cout << "Kata '" << word << "' berhasil dihapus dari kamus." << endl;
             return NULL;
         }
         else if (root->left == NULL)
         {
             Node *temp = root->right;
             delete root;
+            cout << "Kata '" << word << "' berhasil dihapus dari kamus." << endl;
             return temp;
         }
         else if (root->right == NULL)
         {
             Node *temp = root->left;
             delete root;
+            cout << "Kata '" << word << "' berhasil dihapus dari kamus." << endl;
             return temp;
         }
         else
@@ -257,7 +261,6 @@ Node *removeNode(Node *root, string word)
         }
     }
 
-    cout << "Kata '" << word << "' berhasil dihapus dari kamus." << endl;
     return root;
 }
 
