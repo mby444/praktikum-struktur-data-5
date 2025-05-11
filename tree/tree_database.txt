@@ -1,0 +1,15 @@
+apple|buah merah atau hijau yang manis dan renyah
+banana|buah kuning panjang yang lunak dan manis
+cat|hewan peliharaan yang mengeong dan suka memanjat
+dog|hewan peliharaan yang setia dan menggonggong
+elephant|hewan darat terbesar dengan belalai panjang
+fish|hewan yang hidup di air dan bernapas dengan insang
+giraffe|hewan tinggi dengan leher panjang dari Afrika
+house|tempat tinggal manusia yang memiliki atap dan dinding
+ice|es batu atau bentuk padat dari air
+jungle|hutan lebat yang penuh dengan tanaman dan hewan liar
+kite|mainan yang diterbangkan di udara menggunakan tali
+lion|hewan buas yang dikenal sebagai raja hutan
+moon|satelit alami bumi yang bersinar di malam hari
+notebook|buku catatan yang digunakan untuk menulis
+orange|buah bulat berwarna oranye yang kaya vitamin C

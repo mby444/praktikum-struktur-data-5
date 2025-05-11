@@ -1,0 +1,15 @@
+0131101633|The Unix Programming Environment|Brian W. Kernighan
+0131103628|The C Programming Language|Brian W. Kernighan
+0132350882|Clean Code|Robert C. Martin
+0134494164|Agile Software Development|Robert C. Martin
+0134757599|Refactoring to Patterns|Joshua Kerievsky
+0137081073|Effective Java|Joshua Bloch
+0201485672|Test Driven Development|Kent Beck
+020161622X|The Pragmatic Programmer|Andrew Hunt
+0201633612|Design Patterns|Erich Gamma
+0262033844|Introduction to Algorithms|Brian W. Kernighan
+0321125215|Refactoring|Martin Fowler
+0321356683|Domain-Driven Design|Eric Evans
+0596007124|Head First Design Patterns|Eric Freeman
+0596517742|JavaScript: The Good Parts|Brian W. Kernighan
+1491900865|You Don't Know JS|Kyle Simpson
