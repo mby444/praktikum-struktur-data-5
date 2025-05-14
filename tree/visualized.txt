@@ -1,12 +1,15 @@
-apple|buah merah atau hijau yang manis dan renyah
-banana|buah kuning panjang yang lunak dan manis
+fish|hewan yang hidup di air dan bernapas dengan insang
 cat|hewan peliharaan yang mengeong dan suka memanjat
+banana|buah kuning panjang yang lunak dan manis
+apple|buah merah atau hijau yang manis dan renyah
 boom|merupakan ledakan
 dog|hewan peliharaan yang setia dan menggonggong
 elephant|hewan darat terbesar dengan belalai panjang
-fish|hewan yang hidup di air dan bernapas dengan insang
 giraffe|hewan tinggi dengan leher panjang dari Afrika
 house|tempat tinggal manusia yang memiliki atap dan dinding
+hello|kata sapaan kepada orang lain
+hell|neraka panas
+help|kata untuk minta tolong
 ice|es batu atau bentuk padat dari air
 jungle|hutan lebat yang penuh dengan tanaman dan hewan liar
 kite|mainan yang diterbangkan di udara menggunakan tali

@@ -1,0 +1,10 @@
+0111101121|Test Driven Development|Kent Beck
+0123456789|Refactoring to Patterns|Joshua Kerievsky
+0131101633|The Unix Programming Environment|Brian W. Kernighan
+0132350882|Clean Code|Robert C. Martin
+0134757599|Effective Java|Joshua Bloch
+0145678910|The Pragmatic Programmer|Andrew Hunt
+0154321987|The C Programming Language|Brian W. Kernighan
+0167894561|Design Patterns|Erich Gamma
+0182345678|Agile Software Development|Robert C. Martin
+0201010101|Introduction to Algorithms|Brian W. Kernighan
